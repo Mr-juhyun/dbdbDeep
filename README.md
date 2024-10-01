@@ -45,9 +45,6 @@ https://youtu.be/U-YOpqj0jIY?si=jHvrZ0vCbVeJEmjY
 
 
 
-## 👨‍👩‍👦‍👦 팀원 역할
-![team](https://github.com/2024-SMHRD-IS-IOT-2/dbdbDeep/assets/11593416/8ab9deec-7e56-4882-8c76-3b63c02c0dd2)
-
 
 ## 🤾‍♂️ 트러블슈팅
   
