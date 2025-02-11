@@ -41,7 +41,7 @@
 
 
 ## 시연영상
-https://youtu.be/U-YOpqj0jIY?si=jHvrZ0vCbVeJEmjY
+[https://youtu.be/U-YOpqj0jIY?si=jHvrZ0vCbVeJEmjY](https://www.youtube.com/watch?v=uAwP6oO-HcQ&t=55s)
 
 
 
